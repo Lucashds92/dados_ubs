@@ -1,0 +1,2 @@
+select UF, IBGE, CNES, NOME, LOGRADOURO from ubsdb where IBGE = 350950
+ORDER BY CNES

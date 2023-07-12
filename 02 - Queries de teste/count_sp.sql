@@ -1,0 +1,1 @@
+SELECT UF codigo_estado, COUNT(*) soma_ubs FROM ubs.ubsdb WHERE UF = 35
